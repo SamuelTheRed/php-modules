@@ -71,3 +71,5 @@
         <button onclick="deleteObject()">Delete Object</button>
     </div>
 </div>
+
+<script><?php require "script.js";?></script>
